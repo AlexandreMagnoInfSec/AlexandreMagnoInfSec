@@ -23,7 +23,7 @@ Outros projetos e estudos em andamento podem ser encontrados nos repositórios a
 
 ## Contato
 - E-mail: alexandre.magno.seguranca@gmail.com  
-- LinkedIn: [linkedin.com/in/alexandremagno](www.linkedin.com/in/alexandre-magno-infosec)  
+- LinkedIn: [www.linkedin.com/in/alexandre-magno-infosec](www.linkedin.com/in/alexandre-magno-infosec)  
 
 ---
 
